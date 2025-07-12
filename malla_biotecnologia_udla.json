@@ -1,0 +1,518 @@
+{
+    "nombre": "Malla de Biotecnología (UDLA) - Versión completa",
+    "asignaturas": [
+        {
+            "codigo": "INTRODUCCIÓN_A_LA_BIOTECNOLOGÍA",
+            "nombre": "Introducción A La Biotecnología",
+            "semestre": 1,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "QUIMICA_GENERAL",
+            "nombre": "Quimica General",
+            "semestre": 1,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "INTRODUCCION_A_CALCULO",
+            "nombre": "Introduccion A Calculo",
+            "semestre": 1,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "APRENDIZAJE_ESTRATÉGICO_Y_LIDERAZGO",
+            "nombre": "Aprendizaje Estratégico Y Liderazgo",
+            "semestre": 1,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "COMUNICACIÓN_EFECTIVA",
+            "nombre": "Comunicación Efectiva",
+            "semestre": 1,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "BIOLOGIA_CELULAR",
+            "nombre": "Biologia Celular",
+            "semestre": 2,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INTRODUCCIÓN_A_LA_BIOTECNOLOGÍA"
+            ]
+        },
+        {
+            "codigo": "QUIMICA_APLICADA",
+            "nombre": "Quimica Aplicada",
+            "semestre": 2,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "QUIMICA_GENERAL"
+            ]
+        },
+        {
+            "codigo": "CALCULO_1",
+            "nombre": "Calculo 1",
+            "semestre": 2,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INTRODUCCION_A_CALCULO"
+            ]
+        },
+        {
+            "codigo": "CALCULO_2",
+            "nombre": "Calculo 2",
+            "semestre": 2,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INTRODUCCION_A_CALCULO"
+            ]
+        },
+        {
+            "codigo": "FISICA_GENERAL",
+            "nombre": "Fisica General",
+            "semestre": 2,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INTRODUCCION_A_CALCULO"
+            ]
+        },
+        {
+            "codigo": "INTERACCION_EFECTIVA_EN_SISTEMAS_SOCIALES",
+            "nombre": "Interaccion Efectiva En Sistemas Sociales",
+            "semestre": 2,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "PENSAMIENTO_CRITICO_APLICADO",
+            "nombre": "Pensamiento Critico Aplicado",
+            "semestre": 2,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "FISIOLOGIA_CELULAR",
+            "nombre": "Fisiologia Celular",
+            "semestre": 3,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOLOGIA_CELULAR"
+            ]
+        },
+        {
+            "codigo": "QUIMICA_ANALITICA",
+            "nombre": "Quimica Analitica",
+            "semestre": 3,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "QUIMICA_APLICADA"
+            ]
+        },
+        {
+            "codigo": "QUIMICA_ORGANICA",
+            "nombre": "Quimica Organica",
+            "semestre": 3,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "QUIMICA_GENERAL"
+            ]
+        },
+        {
+            "codigo": "QUIMCA-FISICA",
+            "nombre": "Quimca-Fisica",
+            "semestre": 3,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "FISICA_GENERAL",
+                "QUIMICA_APLICADA"
+            ]
+        },
+        {
+            "codigo": "ECUACIONES_DIFERENCIALES",
+            "nombre": "Ecuaciones Diferenciales",
+            "semestre": 3,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "CALCULO_2"
+            ]
+        },
+        {
+            "codigo": "METODOLOGIA_DE_LA_INVESTIGACION",
+            "nombre": "Metodologia De La Investigacion",
+            "semestre": 3,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "PENSAMIENTO_CRITICO_APLICADO"
+            ]
+        },
+        {
+            "codigo": "INGLES_ELEMENTAL",
+            "nombre": "Ingles Elemental",
+            "semestre": 3,
+            "categoria": "Sin categoría",
+            "prerrequisitos": []
+        },
+        {
+            "codigo": "GENETICA",
+            "nombre": "Genetica",
+            "semestre": 4,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "FISIOLOGIA_CELULAR"
+            ]
+        },
+        {
+            "codigo": "INTRODUCCION_A_LA_BIOINFORMATICA",
+            "nombre": "Introduccion A La Bioinformatica",
+            "semestre": 4,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOLOGIA_CELULAR"
+            ]
+        },
+        {
+            "codigo": "BIOQUIMICA",
+            "nombre": "Bioquimica",
+            "semestre": 4,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "QUIMICA_ORGANICA",
+                "BIOLOGIA_CELULAR"
+            ]
+        },
+        {
+            "codigo": "FENOMENOS_DE_TRANSPORTE_APLICADOS_A_LA_BIOTECNOLOGIA",
+            "nombre": "Fenomenos De Transporte Aplicados A La Biotecnologia",
+            "semestre": 4,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "QUIMCA-FISICA",
+                "ECUACIONES_DIFERENCIALES"
+            ]
+        },
+        {
+            "codigo": "BIOESTADISTICA",
+            "nombre": "Bioestadistica",
+            "semestre": 4,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "METODOLOGIA_DE_LA_INVESTIGACION"
+            ]
+        },
+        {
+            "codigo": "INGLES_ELEMENTAL_2",
+            "nombre": "Ingles Elemental 2",
+            "semestre": 4,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INGLES_ELEMENTAL"
+            ]
+        },
+        {
+            "codigo": "BIOLOGIA_MOLECULAR_I",
+            "nombre": "Biologia Molecular I",
+            "semestre": 5,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "GENETICA"
+            ]
+        },
+        {
+            "codigo": "BIOQUIMICA",
+            "nombre": "Bioquimica",
+            "semestre": 5,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INTRODUCCION_A_LA_BIOINFORMATICA"
+            ]
+        },
+        {
+            "codigo": "BALANCE_DE_MATERIALES_Y_ENERGIA",
+            "nombre": "Balance De Materiales Y Energia",
+            "semestre": 5,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "QUIMCA-FISICA",
+                "ECUACIONES_DIFERENCIALES"
+            ]
+        },
+        {
+            "codigo": "MICROBIOLOGIA_1",
+            "nombre": "Microbiologia 1",
+            "semestre": 5,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "FISIOLOGIA_CELULAR"
+            ]
+        },
+        {
+            "codigo": "PRINCIPIOS_DE_INGERNIERIA_METABOLICA",
+            "nombre": "Principios De Ingernieria Metabolica",
+            "semestre": 5,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "QUIMICA_ANALITICA",
+                "BIOQUIMICA"
+            ]
+        },
+        {
+            "codigo": "DISEÑO_DE_EXPERIMENTOS",
+            "nombre": "Diseño De Experimentos",
+            "semestre": 5,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOESTADISTICA"
+            ]
+        },
+        {
+            "codigo": "INGLES_INTERMEDIO_1",
+            "nombre": "Ingles Intermedio 1",
+            "semestre": 5,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INGLES_ELEMENTAL_2"
+            ]
+        },
+        {
+            "codigo": "INMUNOLOGIA",
+            "nombre": "Inmunologia",
+            "semestre": 6,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOLOGIA_MOLECULAR_I"
+            ]
+        },
+        {
+            "codigo": "BIOLOGIA_MOLECULAR_II",
+            "nombre": "Biologia Molecular Ii",
+            "semestre": 6,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOLOGIA_MOLECULAR_I"
+            ]
+        },
+        {
+            "codigo": "OPERACIONES_UNITARIAS_BIOTECNOLOGICAS",
+            "nombre": "Operaciones Unitarias Biotecnologicas",
+            "semestre": 6,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "FENOMENOS_DE_TRANSPORTE_APLICADOS_A_LA_BIOTECNOLOGIA",
+                "BALANCE_DE_MATERIALES_Y_ENERGIA"
+            ]
+        },
+        {
+            "codigo": "MICROBIOLOGIA_2",
+            "nombre": "Microbiologia 2",
+            "semestre": 6,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "MICROBIOLOGIA_1"
+            ]
+        },
+        {
+            "codigo": "BIOTECNOLOGIA_ENZIMATICA",
+            "nombre": "Biotecnologia Enzimatica",
+            "semestre": 6,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "PRINCIPIOS_DE_INGERNIERIA_METABOLICA",
+                "MICROBIOLOGIA_1"
+            ]
+        },
+        {
+            "codigo": "INGLES_INTERMEDIO_2",
+            "nombre": "Ingles Intermedio 2",
+            "semestre": 6,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INGLES_INTERMEDIO_1"
+            ]
+        },
+        {
+            "codigo": "INGENIERIA_GENETICA",
+            "nombre": "Ingenieria Genetica",
+            "semestre": 7,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOLOGIA_MOLECULAR_II"
+            ]
+        },
+        {
+            "codigo": "BIOTECNOLOGIA_AMBIENTAL",
+            "nombre": "Biotecnologia Ambiental",
+            "semestre": 7,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "MICROBIOLOGIA_2"
+            ]
+        },
+        {
+            "codigo": "BIOPROCESOS",
+            "nombre": "Bioprocesos",
+            "semestre": 7,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOTECNOLOGIA_ENZIMATICA",
+                "MICROBIOLOGIA_2"
+            ]
+        },
+        {
+            "codigo": "OPERACIONES_UNITARIAS_BIOTECNOLOGICAS",
+            "nombre": "Operaciones Unitarias Biotecnologicas",
+            "semestre": 7,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "DISEÑO_DE_EXPERIMENTOS"
+            ]
+        },
+        {
+            "codigo": "BIOINFORMATICA",
+            "nombre": "Bioinformatica",
+            "semestre": 7,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOLOGIA_MOLECULAR_I",
+                "INTRODUCCION_A_LA_BIOINFORMATICA"
+            ]
+        },
+        {
+            "codigo": "PROYECTO_DE_INVESTIGACION_INTEGRADOR",
+            "nombre": "Proyecto De Investigacion Integrador",
+            "semestre": 7,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "DISEÑO_DE_EXPERIMENTOS",
+                "MICROBIOLOGIA_2"
+            ]
+        },
+        {
+            "codigo": "INGLES_AVANZADO_1",
+            "nombre": "Ingles Avanzado 1",
+            "semestre": 7,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INGLES_INTERMEDIO_2"
+            ]
+        },
+        {
+            "codigo": "BIOTECNOLOGIA_BIOMEDICA",
+            "nombre": "Biotecnologia Biomedica",
+            "semestre": 8,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INMUNOLOGIA"
+            ]
+        },
+        {
+            "codigo": "BIOINFORMATICA",
+            "nombre": "Bioinformatica",
+            "semestre": 8,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INGENIERIA_GENETICA"
+            ]
+        },
+        {
+            "codigo": "BIOTECNOLOGIA_ANIMAL",
+            "nombre": "Biotecnologia Animal",
+            "semestre": 8,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOINFORMATICA",
+                "INGENIERIA_GENETICA"
+            ]
+        },
+        {
+            "codigo": "MODELAMIENTO_DE_BIOPROCESOS",
+            "nombre": "Modelamiento De Bioprocesos",
+            "semestre": 8,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INTRODUCCION_A_LA_BIOINFORMATICA",
+                "BIOPROCESOS"
+            ]
+        },
+        {
+            "codigo": "BIOTECNOLOGIA_VEGETAL",
+            "nombre": "Biotecnologia Vegetal",
+            "semestre": 8,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INGENIERIA_GENETICA"
+            ]
+        },
+        {
+            "codigo": "GESTION_DE_PROYECTO_DE_BIOTECNOLOGIA",
+            "nombre": "Gestion De Proyecto De Biotecnologia",
+            "semestre": 8,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "PROYECTO_DE_INVESTIGACION_INTEGRADOR"
+            ]
+        },
+        {
+            "codigo": "INGLES_AVANZADO_2",
+            "nombre": "Ingles Avanzado 2",
+            "semestre": 8,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "INGLES_AVANZADO_1"
+            ]
+        },
+        {
+            "codigo": "BIOTECNOLOGIA_Y_EMPRENDIMIENTO",
+            "nombre": "Biotecnologia Y Emprendimiento",
+            "semestre": 9,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "PROYECTO_DE_INVESTIGACION_INTEGRADOR"
+            ]
+        },
+        {
+            "codigo": "CALIDAD_Y_BIOSEGURIDAD",
+            "nombre": "Calidad Y Bioseguridad",
+            "semestre": 9,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "MICROBIOLOGIA_2"
+            ]
+        },
+        {
+            "codigo": "BIOTECNOLOGIA_INDUSTRIAL",
+            "nombre": "Biotecnologia Industrial",
+            "semestre": 9,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "MODELAMIENTO_DE_BIOPROCESOS",
+                "BIOTECNOLOGIA_VEGETAL"
+            ]
+        },
+        {
+            "codigo": "PRACTICAS_PREPROFESIONALES",
+            "nombre": "Practicas Preprofesionales",
+            "semestre": 9,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOLOGIA_MOLECULAR_II"
+            ]
+        },
+        {
+            "codigo": "PROYECTO_DE_BIOTECNOLOGIA",
+            "nombre": "Proyecto De Biotecnologia",
+            "semestre": 9,
+            "categoria": "Sin categoría",
+            "prerrequisitos": [
+                "BIOTECNOLOGIA_VEGETAL",
+                "BIOTECNOLOGIA_BIOMEDICA",
+                "BIOTECNOLOGIA_ANIMAL",
+                "GESTION_DE_PROYECTO_DE_BIOTECNOLOGIA"
+            ]
+        }
+    ]
+}
